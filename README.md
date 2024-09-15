@@ -7,3 +7,5 @@ test the function before 9.10
 + use preload to fast page image load 
 # Optimize
 + to delete redundant files
+# faster
++ zip the pics. now, it fater about six times.
